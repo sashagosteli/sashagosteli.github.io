@@ -1,0 +1,47 @@
+.container {
+    background-color: white;
+}
+.header{
+    padding: 10px 10px;
+    background-color: red;
+    color: aliceblue;
+    display: flex;
+    flex-direction: row;
+}
+.header_links{
+    color: aliceblue;
+    text-decoration: none;
+   
+}
+.menu{
+    margin-right: 20px;
+}
+.header_points{
+    display:inline-flex;
+    padding: 10px 10px;
+
+}
+.flagforheaderpic{
+   position: absolute;
+   right: 12px;
+   top: 12px;
+   margin: 0px;
+
+}
+.name_Schweizerdeutsch{
+    position: absolute;
+    right: 100px;
+    top: 20px;
+    font-size: 25px;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+
+}
+.info{
+    margin: 20px 20px;
+    font-size: 20px;
+}
+.text{
+    margin: 20px 20px;
+    font-size: 20px; 
+}
